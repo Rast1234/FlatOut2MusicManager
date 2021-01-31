@@ -17,7 +17,8 @@ What it does:
 1. Have 6+ GB of free space
 2. Place your music in some directory, eg `C:\Music`. Subdirectories are supported too
 3. Install dependencies (read below)
-4. Run `FlatOut2MusicManager "C:\Program Files (x86)\Steam\steamapps\common\FlatOut2" "C:\Music"`
+4. [Get latest release](https://github.com/Rast1234/FlatOut2MusicManager/releases)
+5. Run `FlatOut2MusicManager "C:\Program Files (x86)\Steam\steamapps\common\FlatOut2" "C:\Music"`
 
 # Dependencies
 
